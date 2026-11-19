@@ -14,10 +14,10 @@
 
 One person doing product, code, QA and release. I believe *one less abstraction layer means one less class of bugs*.
 
-[![Website](https://img.shields.io/badge/website-yangyang2857--rgb.github.io-2ea44f?logo=githubpages&logoColor=white)](https://yangyang2857-rgb.github.io/)
+[![Website](https://img.shields.io/badge/website-yangyang2857--rgb.github.io-2ea44f?logo=githubpages&logoColor=white)](https://wang-sunyang.github.io/)
 [![Location](https://img.shields.io/badge/location-Hubei%C2%B7Jingzhou%2C%20China-1f6feb?logo=googlemaps&logoColor=white)](#)
-[![Followers](https://img.shields.io/github/followers/yangyang2857-rgb?label=followers&color=8957e5)](https://github.com/yangyang2857-rgb?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=yangyang2857-rgb&label=views&color=3DDC84&style=flat)](https://github.com/yangyang2857-rgb)
+[![Followers](https://img.shields.io/github/followers/wang-sunyang?label=followers&color=8957e5)](https://github.com/wang-sunyang?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=wang-sunyang&label=views&color=3DDC84&style=flat)](https://github.com/wang-sunyang)
 
 ## About me
 
@@ -34,11 +34,11 @@ One person doing product, code, QA and release. I believe *one less abstraction 
 
 > A native Android build experiment with no Gradle and no AGP: `aapt2` + `javac` + `d8` + `apksigner` + `zig cc`, all driven by one `build.sh`.
 
-[![Repo](https://img.shields.io/badge/repo-onestar-1f6feb?logo=github&logoColor=white)](https://github.com/yangyang2857-rgb/onestar)
-[![build](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/onestar/android.yml?branch=main&label=build&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/onestar/actions/workflows/android.yml)
-[![regression](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/onestar/regression.yml?branch=main&label=regression&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/onestar/actions/workflows/regression.yml)
-[![Release](https://img.shields.io/github/v/release/yangyang2857-rgb/onestar?label=release&color=3DDC84)](https://github.com/yangyang2857-rgb/onestar/releases)
-[![License](https://img.shields.io/github/license/yangyang2857-rgb/onestar?label=license&color=2ea44f)](https://github.com/yangyang2857-rgb/onestar/blob/main/LICENSE)
+[![Repo](https://img.shields.io/badge/repo-onestar-1f6feb?logo=github&logoColor=white)](https://github.com/wang-sunyang/onestar)
+[![build](https://img.shields.io/github/actions/workflow/status/wang-sunyang/onestar/android.yml?branch=main&label=build&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/onestar/actions/workflows/android.yml)
+[![regression](https://img.shields.io/github/actions/workflow/status/wang-sunyang/onestar/regression.yml?branch=main&label=regression&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/onestar/actions/workflows/regression.yml)
+[![Release](https://img.shields.io/github/v/release/wang-sunyang/onestar?label=release&color=3DDC84)](https://github.com/wang-sunyang/onestar/releases)
+[![License](https://img.shields.io/github/license/wang-sunyang/onestar?label=license&color=2ea44f)](https://github.com/wang-sunyang/onestar/blob/main/LICENSE)
 
 - Supports **Android 5.0+ (API 21)**, localized into **15 languages**
 - JNI pieces cross-compiled with `zig cc`, no NDK Gradle wrapper
@@ -48,22 +48,22 @@ One person doing product, code, QA and release. I believe *one less abstraction 
 
 > Android 16 lets AI agents call functions inside your app. This project adds the doorman, the doorbell and the visitor log the platform forgot.
 
-[![Repo](https://img.shields.io/badge/repo-appfunction--guard-1f6feb?logo=github&logoColor=white)](https://github.com/yangyang2857-rgb/appfunction-guard)
-[![build](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/appfunction-guard/build.yml?branch=main&label=build&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/appfunction-guard/actions/workflows/build.yml)
-[![publish](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/appfunction-guard/publish-central.yml?branch=main&label=publish&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/appfunction-guard/actions/workflows/publish-central.yml)
-[![License](https://img.shields.io/github/license/yangyang2857-rgb/appfunction-guard?label=license&color=2ea44f)](https://github.com/yangyang2857-rgb/appfunction-guard/blob/main/LICENSE)
+[![Repo](https://img.shields.io/badge/repo-appfunction--guard-1f6feb?logo=github&logoColor=white)](https://github.com/wang-sunyang/appfunction-guard)
+[![build](https://img.shields.io/github/actions/workflow/status/wang-sunyang/appfunction-guard/build.yml?branch=main&label=build&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/appfunction-guard/actions/workflows/build.yml)
+[![publish](https://img.shields.io/github/actions/workflow/status/wang-sunyang/appfunction-guard/publish-central.yml?branch=main&label=publish&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/appfunction-guard/actions/workflows/publish-central.yml)
+[![License](https://img.shields.io/github/license/wang-sunyang/appfunction-guard?label=license&color=2ea44f)](https://github.com/wang-sunyang/appfunction-guard/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/status-alpha-orange)](#)
 
 - **Per-function** access control over `AppFunctions`: authorization, rate limiting and auditing in one chain
 - Kotlin 2.2, `minSdk 26`, MIT licensed
 
-### yangyang2857-rgb.github.io
+### wang-sunyang.github.io
 
 > A hand-written HTML / CSS / JavaScript site: no framework, no build step, no third-party dependencies. Edit a file, `git push`, done.
 
-[![Site](https://img.shields.io/badge/website-online-2ea44f?logo=githubpages&logoColor=white)](https://yangyang2857-rgb.github.io/)
-[![pages](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/yangyang2857-rgb.github.io/pages/pages-build-deployment?branch=main&label=pages&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/yangyang2857-rgb.github.io/actions)
-[![Repo](https://img.shields.io/badge/repo-yangyang2857--rgb.github.io-1f6feb?logo=github&logoColor=white)](https://github.com/yangyang2857-rgb/yangyang2857-rgb.github.io)
+[![Site](https://img.shields.io/badge/website-online-2ea44f?logo=githubpages&logoColor=white)](https://wang-sunyang.github.io/)
+[![pages](https://img.shields.io/github/actions/workflow/status/wang-sunyang/wang-sunyang.github.io/pages/pages-build-deployment?branch=main&label=pages&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/wang-sunyang.github.io/actions)
+[![Repo](https://img.shields.io/badge/repo-yangyang2857--rgb.github.io-1f6feb?logo=github&logoColor=white)](https://github.com/wang-sunyang/wang-sunyang.github.io)
 
 - `dependencies: 0`, hosted on GitHub Pages
 - Single-page long scroll, dark/light themes, hand-written browser fallbacks
@@ -72,10 +72,10 @@ One person doing product, code, QA and release. I believe *one less abstraction 
 
 > Most of the bulk in your projects is build output that can be rebuilt from source. This finds it, measures it, and shows the evidence for why it is disposable — then it stops. It deletes nothing.
 
-[![Repo](https://img.shields.io/badge/repo-moltdisk-1f6feb?logo=github&logoColor=white)](https://github.com/yangyang2857-rgb/moltdisk)
-[![ci](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/moltdisk/ci.yml?branch=main&label=ci&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/moltdisk/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/yangyang2857-rgb/moltdisk?label=release&color=DEA584)](https://github.com/yangyang2857-rgb/moltdisk/releases)
-[![License](https://img.shields.io/github/license/yangyang2857-rgb/moltdisk?label=license&color=2ea44f)](https://github.com/yangyang2857-rgb/moltdisk/blob/main/LICENSE)
+[![Repo](https://img.shields.io/badge/repo-moltdisk-1f6feb?logo=github&logoColor=white)](https://github.com/wang-sunyang/moltdisk)
+[![ci](https://img.shields.io/github/actions/workflow/status/wang-sunyang/moltdisk/ci.yml?branch=main&label=ci&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/moltdisk/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/wang-sunyang/moltdisk?label=release&color=DEA584)](https://github.com/wang-sunyang/moltdisk/releases)
+[![License](https://img.shields.io/github/license/wang-sunyang/moltdisk?label=license&color=2ea44f)](https://github.com/wang-sunyang/moltdisk/blob/main/LICENSE)
 
 - Walks `node_modules` / `target` / `dist` / `venv` / `Pods` and common caches, ranks them by size, explains each verdict
 - Rust 2021, MSRV 1.80; no delete module, no `remove_dir_all`, and `-y` is a hard error
@@ -84,9 +84,9 @@ One person doing product, code, QA and release. I believe *one less abstraction 
 
 > A persona spec that a program can check: the style guide says who she is, this says which line she says next.
 
-[![Repo](https://img.shields.io/badge/repo-marvis--persona--spec-1f6feb?logo=github&logoColor=white)](https://github.com/yangyang2857-rgb/marvis-persona-spec)
-[![lint](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/marvis-persona-spec/persona-lint.yml?branch=main&label=lint&logo=githubactions&logoColor=white)](https://github.com/yangyang2857-rgb/marvis-persona-spec/actions/workflows/persona-lint.yml)
-[![License](https://img.shields.io/github/license/yangyang2857-rgb/marvis-persona-spec?label=license&color=2ea44f)](https://github.com/yangyang2857-rgb/marvis-persona-spec/blob/main/LICENSE)
+[![Repo](https://img.shields.io/badge/repo-marvis--persona--spec-1f6feb?logo=github&logoColor=white)](https://github.com/wang-sunyang/marvis-persona-spec)
+[![lint](https://img.shields.io/github/actions/workflow/status/wang-sunyang/marvis-persona-spec/persona-lint.yml?branch=main&label=lint&logo=githubactions&logoColor=white)](https://github.com/wang-sunyang/marvis-persona-spec/actions/workflows/persona-lint.yml)
+[![License](https://img.shields.io/github/license/wang-sunyang/marvis-persona-spec?label=license&color=2ea44f)](https://github.com/wang-sunyang/marvis-persona-spec/blob/main/LICENSE)
 
 - 30 line slots, 20 banned phrases, a working lint script and 10 baseline tests, plus the Fault Bloom visual system
 - Two-stage CI: greyscale reporting first, blocking gate once the backlog reaches zero
@@ -123,33 +123,33 @@ One person doing product, code, QA and release. I believe *one less abstraction 
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=yangyang2857-rgb&theme=github-dark&hide_border=true&locale=en)
+![Streak](https://streak-stats.demolab.com?user=wang-sunyang&theme=github-dark&hide_border=true&locale=en)
 
 </div>
 
 | Repo | Language | Latest release | Last commit |
 | --- | --- | --- | --- |
-| [onestar](https://github.com/yangyang2857-rgb/onestar) | ![lang](https://img.shields.io/github/languages/top/yangyang2857-rgb/onestar) | ![release](https://img.shields.io/github/v/release/yangyang2857-rgb/onestar) | ![last](https://img.shields.io/github/last-commit/yangyang2857-rgb/onestar) |
-| [appfunction-guard](https://github.com/yangyang2857-rgb/appfunction-guard) | ![lang](https://img.shields.io/github/languages/top/yangyang2857-rgb/appfunction-guard) | — | ![last](https://img.shields.io/github/last-commit/yangyang2857-rgb/appfunction-guard) |
-| [yangyang2857-rgb.github.io](https://github.com/yangyang2857-rgb/yangyang2857-rgb.github.io) | ![lang](https://img.shields.io/github/languages/top/yangyang2857-rgb/yangyang2857-rgb.github.io) | — | ![last](https://img.shields.io/github/last-commit/yangyang2857-rgb/yangyang2857-rgb.github.io) |
-| [moltdisk](https://github.com/yangyang2857-rgb/moltdisk) | ![lang](https://img.shields.io/github/languages/top/yangyang2857-rgb/moltdisk) | ![release](https://img.shields.io/github/v/release/yangyang2857-rgb/moltdisk) | ![last](https://img.shields.io/github/last-commit/yangyang2857-rgb/moltdisk) |
-| [marvis-persona-spec](https://github.com/yangyang2857-rgb/marvis-persona-spec) | ![lang](https://img.shields.io/github/languages/top/yangyang2857-rgb/marvis-persona-spec) | — | ![last](https://img.shields.io/github/last-commit/yangyang2857-rgb/marvis-persona-spec) |
+| [onestar](https://github.com/wang-sunyang/onestar) | ![lang](https://img.shields.io/github/languages/top/wang-sunyang/onestar) | ![release](https://img.shields.io/github/v/release/wang-sunyang/onestar) | ![last](https://img.shields.io/github/last-commit/wang-sunyang/onestar) |
+| [appfunction-guard](https://github.com/wang-sunyang/appfunction-guard) | ![lang](https://img.shields.io/github/languages/top/wang-sunyang/appfunction-guard) | — | ![last](https://img.shields.io/github/last-commit/wang-sunyang/appfunction-guard) |
+| [wang-sunyang.github.io](https://github.com/wang-sunyang/wang-sunyang.github.io) | ![lang](https://img.shields.io/github/languages/top/wang-sunyang/wang-sunyang.github.io) | — | ![last](https://img.shields.io/github/last-commit/wang-sunyang/wang-sunyang.github.io) |
+| [moltdisk](https://github.com/wang-sunyang/moltdisk) | ![lang](https://img.shields.io/github/languages/top/wang-sunyang/moltdisk) | ![release](https://img.shields.io/github/v/release/wang-sunyang/moltdisk) | ![last](https://img.shields.io/github/last-commit/wang-sunyang/moltdisk) |
+| [marvis-persona-spec](https://github.com/wang-sunyang/marvis-persona-spec) | ![lang](https://img.shields.io/github/languages/top/wang-sunyang/marvis-persona-spec) | — | ![last](https://img.shields.io/github/last-commit/wang-sunyang/marvis-persona-spec) |
 
 ### CI status
 
 | Repo | Workflow | Status |
 | --- | --- | --- |
-| onestar | `android.yml` | ![build](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/onestar/android.yml?branch=main&label=status) |
-| onestar | `regression.yml` | ![regression](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/onestar/regression.yml?branch=main&label=status) |
-| appfunction-guard | `build.yml` | ![build](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/appfunction-guard/build.yml?branch=main&label=status) |
-| appfunction-guard | `publish-central.yml` | ![publish](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/appfunction-guard/publish-central.yml?branch=main&label=status) |
-| yangyang2857-rgb.github.io | `pages-build-deployment` | ![pages](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/yangyang2857-rgb.github.io/pages/pages-build-deployment?branch=main&label=status) |
-| moltdisk | `ci.yml` | ![ci](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/moltdisk/ci.yml?branch=main&label=status) |
-| marvis-persona-spec | `persona-lint.yml` | ![lint](https://img.shields.io/github/actions/workflow/status/yangyang2857-rgb/marvis-persona-spec/persona-lint.yml?branch=main&label=status) |
+| onestar | `android.yml` | ![build](https://img.shields.io/github/actions/workflow/status/wang-sunyang/onestar/android.yml?branch=main&label=status) |
+| onestar | `regression.yml` | ![regression](https://img.shields.io/github/actions/workflow/status/wang-sunyang/onestar/regression.yml?branch=main&label=status) |
+| appfunction-guard | `build.yml` | ![build](https://img.shields.io/github/actions/workflow/status/wang-sunyang/appfunction-guard/build.yml?branch=main&label=status) |
+| appfunction-guard | `publish-central.yml` | ![publish](https://img.shields.io/github/actions/workflow/status/wang-sunyang/appfunction-guard/publish-central.yml?branch=main&label=status) |
+| wang-sunyang.github.io | `pages-build-deployment` | ![pages](https://img.shields.io/github/actions/workflow/status/wang-sunyang/wang-sunyang.github.io/pages/pages-build-deployment?branch=main&label=status) |
+| moltdisk | `ci.yml` | ![ci](https://img.shields.io/github/actions/workflow/status/wang-sunyang/moltdisk/ci.yml?branch=main&label=status) |
+| marvis-persona-spec | `persona-lint.yml` | ![lint](https://img.shields.io/github/actions/workflow/status/wang-sunyang/marvis-persona-spec/persona-lint.yml?branch=main&label=status) |
 
 ## Contact
 
-- Website: <https://yangyang2857-rgb.github.io/>
+- Website: <https://wang-sunyang.github.io/>
 - Studio: [Nightglean Studio](https://github.com/nightglean)
 - Questions or ideas: open an issue in the relevant repo — faster than email
 
